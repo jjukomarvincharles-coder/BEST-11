@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "coaches": [
+    {
+      "id": "coach_01",
+      "name": "Marek Voss",
+      "specialty": "Possession",
+      "development_bonus": {
+        "passing": 3,
+        "vision": 2
+      },
+      "weekly_cost": 18000
+    },
+    {
+      "id": "coach_02",
+      "name": "Lina Duarte",
+      "specialty": "Attacking",
+      "development_bonus": {
+        "shooting": 3,
+        "dribbling": 2
+      },
+      "weekly_cost": 20000
+    },
+    {
+      "id": "coach_03",
+      "name": "Tomas Hale",
+      "specialty": "Defending",
+      "development_bonus": {
+        "defending": 3,
+        "physical": 2
+      },
+      "weekly_cost": 17500
+    },
+    {
+      "id": "coach_04",
+      "name": "Nadia Okafor",
+      "specialty": "Fitness",
+      "development_bonus": {
+        "stamina": 3,
+        "pace": 1
+      },
+      "weekly_cost": 16000
+    },
+    {
+      "id": "coach_05",
+      "name": "Ivo Petrov",
+      "specialty": "Goalkeeping",
+      "development_bonus": {
+        "reflexes": 3,
+        "handling": 2
+      },
+      "weekly_cost": 19000
+    }
+  ]
+}

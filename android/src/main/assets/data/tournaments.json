@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "tournaments": [
+    {
+      "id": "world_cup",
+      "name": "World Championship Cup",
+      "teams": 32
+    },
+    {
+      "id": "champions_cup",
+      "name": "Continental Champions Cup",
+      "teams": 32
+    },
+    {
+      "id": "copa",
+      "name": "Copa Continental",
+      "teams": 16
+    },
+    {
+      "id": "asian_cup",
+      "name": "Asian Nations Cup",
+      "teams": 24
+    },
+    {
+      "id": "womens_world_cup",
+      "name": "Women's World Championship",
+      "teams": 32
+    }
+  ]
+}

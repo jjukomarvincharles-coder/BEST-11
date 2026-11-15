@@ -1,0 +1,41 @@
+{
+  "schema_version": 1,
+  "scouts": [
+    {
+      "id": "scout_01",
+      "name": "Rafi Silva",
+      "region": "North",
+      "experience": 5,
+      "judgement": 78,
+      "discovery_rate": 0.72,
+      "weekly_cost": 9000
+    },
+    {
+      "id": "scout_02",
+      "name": "Mina Jensen",
+      "region": "South",
+      "experience": 8,
+      "judgement": 86,
+      "discovery_rate": 0.81,
+      "weekly_cost": 14000
+    },
+    {
+      "id": "scout_03",
+      "name": "Oren Bellamy",
+      "region": "East",
+      "experience": 3,
+      "judgement": 69,
+      "discovery_rate": 0.63,
+      "weekly_cost": 6500
+    },
+    {
+      "id": "scout_04",
+      "name": "Sana Yilmaz",
+      "region": "West",
+      "experience": 6,
+      "judgement": 82,
+      "discovery_rate": 0.76,
+      "weekly_cost": 11000
+    }
+  ]
+}

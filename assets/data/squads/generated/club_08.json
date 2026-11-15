@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_08",
+  "name": "Stormbridge Town",
+  "country": "Belvaria",
+  "league": "Generated League 1",
+  "stadium": "Stormbridge Arena",
+  "primary_colour": "#02283F",
+  "secondary_colour": "#046E92",
+  "play_style": "Direct",
+  "reputation": 3,
+  "budget": 21661338,
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "id": "club_08_p01",
+      "name": "Idris Ibrahim",
+      "nationality": "Demeria",
+      "age": 22,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Deep-Lying Creator",
+      "overall": 79,
+      "potential": 86,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 62,
+        "shooting": 74,
+        "passing": 52,
+        "dribbling": 59,
+        "defending": 50,
+        "physical": 53
+      }
+    },
+    {
+      "id": "club_08_p02",
+      "name": "Tariq Ashford",
+      "nationality": "Ardania",
+      "age": 34,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Inverted Winger",
+      "overall": 89,
+      "potential": 99,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 59,
+        "shooting": 69,
+        "passing": 62,
+        "dribbling": 77,
+        "defending": 75,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_08_p03",
+      "name": "Elias Quill",
+      "nationality": "Calidora",
+      "age": 20,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Stopper",
+      "overall": 89,
+      "potential": 94,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 77,
+        "shooting": 74,
+        "passing": 77,
+        "dribbling": 50,
+        "defending": 42,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_08_p04",
+      "name": "Uriel Silva",
+      "nationality": "Belvaria",
+      "age": 21,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Stopper",
+      "overall": 65,
+      "potential": 68,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 63,
+        "shooting": 92,
+        "passing": 46,
+        "dribbling": 55,
+        "defending": 78,
+        "physical": 63
+      }
+    },
+    {
+      "id": "club_08_p05",
+      "name": "Galen Navarro",
+      "nationality": "Estovia",
+      "age": 18,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Stopper",
+      "overall": 68,
+      "potential": 75,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 92,
+        "shooting": 61,
+        "passing": 68,
+        "dribbling": 81,
+        "defending": 45,
+        "physical": 57
+      }
+    },
+    {
+      "id": "club_08_p06",
+      "name": "Soren Bennett",
+      "nationality": "Belvaria",
+      "age": 20,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Poacher",
+      "overall": 75,
+      "potential": 78,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 84,
+        "shooting": 57,
+        "passing": 55,
+        "dribbling": 78,
+        "defending": 79,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_08_p07",
+      "name": "Elias Zoric",
+      "nationality": "Estovia",
+      "age": 29,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Deep-Lying Creator",
+      "overall": 68,
+      "potential": 69,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 89,
+        "shooting": 42,
+        "passing": 83,
+        "dribbling": 77,
+        "defending": 87,
+        "physical": 69
+      }
+    },
+    {
+      "id": "club_08_p08",
+      "name": "Idris Wolfe",
+      "nationality": "Calidora",
+      "age": 21,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 87,
+      "potential": 99,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 74,
+        "shooting": 43,
+        "passing": 93,
+        "dribbling": 80,
+        "defending": 54,
+        "physical": 81
+      }
+    },
+    {
+      "id": "club_08_p09",
+      "name": "Amara Ferrer",
+      "nationality": "Demeria",
+      "age": 30,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Stopper",
+      "overall": 72,
+      "potential": 76,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 94,
+        "shooting": 84,
+        "passing": 57,
+        "dribbling": 47,
+        "defending": 61,
+        "physical": 72
+      }
+    },
+    {
+      "id": "club_08_p10",
+      "name": "Jalen Duarte",
+      "nationality": "Faron",
+      "age": 34,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Box-to-Box",
+      "overall": 66,
+      "potential": 69,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 76,
+        "shooting": 67,
+        "passing": 46,
+        "dribbling": 69,
+        "defending": 38,
+        "physical": 69
+      }
+    },
+    {
+      "id": "club_08_p11",
+      "name": "Bianca Ferrer",
+      "nationality": "Belvaria",
+      "age": 28,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Sweeper Keeper",
+      "overall": 72,
+      "potential": 78,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 48,
+        "shooting": 61,
+        "passing": 60,
+        "dribbling": 50,
+        "defending": 73,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_08_p12",
+      "name": "Pavel Jensen",
+      "nationality": "Estovia",
+      "age": 31,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Playmaker",
+      "overall": 85,
+      "potential": 96,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 54,
+        "shooting": 48,
+        "passing": 73,
+        "dribbling": 47,
+        "defending": 87,
+        "physical": 79
+      }
+    },
+    {
+      "id": "club_08_p13",
+      "name": "Pavel Laurent",
+      "nationality": "Ardania",
+      "age": 28,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Inverted Winger",
+      "overall": 75,
+      "potential": 83,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 81,
+        "shooting": 55,
+        "passing": 81,
+        "dribbling": 44,
+        "defending": 54,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_08_p14",
+      "name": "Quentin Reyes",
+      "nationality": "Galena",
+      "age": 25,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Poacher",
+      "overall": 69,
+      "potential": 72,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 88,
+        "shooting": 65,
+        "passing": 77,
+        "dribbling": 87,
+        "defending": 72,
+        "physical": 79
+      }
+    },
+    {
+      "id": "club_08_p15",
+      "name": "Elias Duarte",
+      "nationality": "Ardania",
+      "age": 19,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 70,
+      "potential": 73,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 88,
+        "shooting": 91,
+        "passing": 84,
+        "dribbling": 69,
+        "defending": 72,
+        "physical": 71
+      }
+    },
+    {
+      "id": "club_08_p16",
+      "name": "Jalen Alder",
+      "nationality": "Faron",
+      "age": 28,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 85,
+      "potential": 90,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 60,
+        "shooting": 71,
+        "passing": 84,
+        "dribbling": 57,
+        "defending": 80,
+        "physical": 49
+      }
+    },
+    {
+      "id": "club_08_p17",
+      "name": "Jalen Kovac",
+      "nationality": "Demeria",
+      "age": 28,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Sweeper Keeper",
+      "overall": 81,
+      "potential": 82,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 87,
+        "shooting": 71,
+        "passing": 76,
+        "dribbling": 72,
+        "defending": 36,
+        "physical": 52
+      }
+    },
+    {
+      "id": "club_08_p18",
+      "name": "Bastian Ashford",
+      "nationality": "Faron",
+      "age": 21,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Ball Winner",
+      "overall": 68,
+      "potential": 71,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 60,
+        "shooting": 48,
+        "passing": 93,
+        "dribbling": 73,
+        "defending": 89,
+        "physical": 77
+      }
+    }
+  ],
+  "fictional_content": true
+}

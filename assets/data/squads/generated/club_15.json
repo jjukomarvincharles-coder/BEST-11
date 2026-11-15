@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_15",
+  "name": "Highland United",
+  "country": "Estovia",
+  "league": "Generated League 2",
+  "stadium": "Highland Arena",
+  "primary_colour": "#DC0AA2",
+  "secondary_colour": "#ED0AB2",
+  "play_style": "Counter Attack",
+  "reputation": 4,
+  "budget": 19284251,
+  "formation": "3-5-2",
+  "players": [
+    {
+      "id": "club_15_p01",
+      "name": "Ari Zoric",
+      "nationality": "Faron",
+      "age": 28,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Sweeper Keeper",
+      "overall": 85,
+      "potential": 97,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 55,
+        "shooting": 66,
+        "passing": 80,
+        "dribbling": 85,
+        "defending": 63,
+        "physical": 64
+      }
+    },
+    {
+      "id": "club_15_p02",
+      "name": "Farid Laurent",
+      "nationality": "Ardania",
+      "age": 26,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Target Forward",
+      "overall": 77,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 69,
+        "shooting": 86,
+        "passing": 64,
+        "dribbling": 68,
+        "defending": 65,
+        "physical": 82
+      }
+    },
+    {
+      "id": "club_15_p03",
+      "name": "Xavi Duarte",
+      "nationality": "Demeria",
+      "age": 22,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 77,
+      "potential": 82,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 63,
+        "shooting": 91,
+        "passing": 77,
+        "dribbling": 77,
+        "defending": 76,
+        "physical": 81
+      }
+    },
+    {
+      "id": "club_15_p04",
+      "name": "Wes Ibrahim",
+      "nationality": "Galena",
+      "age": 26,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 89,
+      "potential": 99,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 77,
+        "shooting": 50,
+        "passing": 81,
+        "dribbling": 59,
+        "defending": 53,
+        "physical": 60
+      }
+    },
+    {
+      "id": "club_15_p05",
+      "name": "Jalen Gomes",
+      "nationality": "Belvaria",
+      "age": 23,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 80,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 53,
+        "shooting": 76,
+        "passing": 82,
+        "dribbling": 61,
+        "defending": 73,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_15_p06",
+      "name": "Zane Everly",
+      "nationality": "Faron",
+      "age": 23,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Target Forward",
+      "overall": 79,
+      "potential": 80,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 62,
+        "shooting": 53,
+        "passing": 87,
+        "dribbling": 57,
+        "defending": 36,
+        "physical": 75
+      }
+    },
+    {
+      "id": "club_15_p07",
+      "name": "Tariq Bennett",
+      "nationality": "Ardania",
+      "age": 26,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Target Forward",
+      "overall": 78,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 65,
+        "shooting": 64,
+        "passing": 50,
+        "dribbling": 91,
+        "defending": 80,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_15_p08",
+      "name": "Pavel Xu",
+      "nationality": "Demeria",
+      "age": 29,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Box-to-Box",
+      "overall": 74,
+      "potential": 74,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 76,
+        "shooting": 70,
+        "passing": 60,
+        "dribbling": 84,
+        "defending": 71,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_15_p09",
+      "name": "Cael Silva",
+      "nationality": "Helvoria",
+      "age": 29,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Playmaker",
+      "overall": 67,
+      "potential": 69,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 68,
+        "shooting": 82,
+        "passing": 64,
+        "dribbling": 87,
+        "defending": 67,
+        "physical": 66
+      }
+    },
+    {
+      "id": "club_15_p10",
+      "name": "Soren Laurent",
+      "nationality": "Calidora",
+      "age": 29,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Inverted Winger",
+      "overall": 70,
+      "potential": 81,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 82,
+        "shooting": 83,
+        "passing": 66,
+        "dribbling": 83,
+        "defending": 68,
+        "physical": 60
+      }
+    },
+    {
+      "id": "club_15_p11",
+      "name": "Tariq Petrov",
+      "nationality": "Demeria",
+      "age": 31,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Overlapping Fullback",
+      "overall": 70,
+      "potential": 75,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 94,
+        "shooting": 77,
+        "passing": 92,
+        "dribbling": 63,
+        "defending": 77,
+        "physical": 58
+      }
+    },
+    {
+      "id": "club_15_p12",
+      "name": "Amara Navarro",
+      "nationality": "Helvoria",
+      "age": 27,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 68,
+      "potential": 68,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 56,
+        "shooting": 78,
+        "passing": 54,
+        "dribbling": 72,
+        "defending": 50,
+        "physical": 54
+      }
+    },
+    {
+      "id": "club_15_p13",
+      "name": "Zane Petrov",
+      "nationality": "Galena",
+      "age": 28,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Poacher",
+      "overall": 63,
+      "potential": 71,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 94,
+        "shooting": 67,
+        "passing": 57,
+        "dribbling": 66,
+        "defending": 78,
+        "physical": 60
+      }
+    },
+    {
+      "id": "club_15_p14",
+      "name": "Victor Ferrer",
+      "nationality": "Ardania",
+      "age": 19,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Box-to-Box",
+      "overall": 74,
+      "potential": 85,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 61,
+        "shooting": 71,
+        "passing": 53,
+        "dribbling": 52,
+        "defending": 41,
+        "physical": 68
+      }
+    },
+    {
+      "id": "club_15_p15",
+      "name": "Farid Bennett",
+      "nationality": "Calidora",
+      "age": 34,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Stopper",
+      "overall": 67,
+      "potential": 78,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 67,
+        "shooting": 57,
+        "passing": 52,
+        "dribbling": 47,
+        "defending": 43,
+        "physical": 69
+      }
+    },
+    {
+      "id": "club_15_p16",
+      "name": "Elara Quill",
+      "nationality": "Helvoria",
+      "age": 21,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 85,
+      "potential": 91,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 50,
+        "shooting": 72,
+        "passing": 91,
+        "dribbling": 91,
+        "defending": 81,
+        "physical": 52
+      }
+    },
+    {
+      "id": "club_15_p17",
+      "name": "Rafael Jensen",
+      "nationality": "Calidora",
+      "age": 26,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 80,
+      "potential": 91,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 78,
+        "shooting": 52,
+        "passing": 59,
+        "dribbling": 48,
+        "defending": 89,
+        "physical": 92
+      }
+    },
+    {
+      "id": "club_15_p18",
+      "name": "Victor Bennett",
+      "nationality": "Faron",
+      "age": 31,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Box-to-Box",
+      "overall": 73,
+      "potential": 85,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 56,
+        "shooting": 67,
+        "passing": 83,
+        "dribbling": 92,
+        "defending": 53,
+        "physical": 61
+      }
+    }
+  ],
+  "fictional_content": true
+}

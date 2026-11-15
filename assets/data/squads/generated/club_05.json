@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_05",
+  "name": "Kingsport FC",
+  "country": "Faron",
+  "league": "Generated League 1",
+  "stadium": "Kingsport Arena",
+  "primary_colour": "#8F10FE",
+  "secondary_colour": "#33758E",
+  "play_style": "Possession",
+  "reputation": 3,
+  "budget": 7852058,
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "id": "club_05_p01",
+      "name": "Dahlia Petrov",
+      "nationality": "Ardania",
+      "age": 31,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Ball Winner",
+      "overall": 70,
+      "potential": 76,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 69,
+        "shooting": 71,
+        "passing": 45,
+        "dribbling": 78,
+        "defending": 84,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_05_p02",
+      "name": "Yuri Bennett",
+      "nationality": "Calidora",
+      "age": 21,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Ball Winner",
+      "overall": 87,
+      "potential": 90,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 63,
+        "shooting": 68,
+        "passing": 55,
+        "dribbling": 49,
+        "defending": 60,
+        "physical": 90
+      }
+    },
+    {
+      "id": "club_05_p03",
+      "name": "Uriel Everly",
+      "nationality": "Estovia",
+      "age": 21,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 79,
+      "potential": 88,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 85,
+        "shooting": 50,
+        "passing": 77,
+        "dribbling": 68,
+        "defending": 61,
+        "physical": 74
+      }
+    },
+    {
+      "id": "club_05_p04",
+      "name": "Luca Ashford",
+      "nationality": "Calidora",
+      "age": 19,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 76,
+      "potential": 83,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 87,
+        "shooting": 56,
+        "passing": 90,
+        "dribbling": 62,
+        "defending": 41,
+        "physical": 94
+      }
+    },
+    {
+      "id": "club_05_p05",
+      "name": "Cleo Gomes",
+      "nationality": "Faron",
+      "age": 27,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Deep-Lying Creator",
+      "overall": 87,
+      "potential": 99,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 68,
+        "shooting": 72,
+        "passing": 79,
+        "dribbling": 47,
+        "defending": 55,
+        "physical": 72
+      }
+    },
+    {
+      "id": "club_05_p06",
+      "name": "Hugo Petrov",
+      "nationality": "Belvaria",
+      "age": 27,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Deep-Lying Creator",
+      "overall": 69,
+      "potential": 72,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 75,
+        "shooting": 65,
+        "passing": 53,
+        "dribbling": 50,
+        "defending": 36,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_05_p07",
+      "name": "Jalen Gomes",
+      "nationality": "Ardania",
+      "age": 21,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 71,
+      "potential": 78,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 94,
+        "shooting": 45,
+        "passing": 50,
+        "dribbling": 57,
+        "defending": 72,
+        "physical": 85
+      }
+    },
+    {
+      "id": "club_05_p08",
+      "name": "Uriel Reyes",
+      "nationality": "Calidora",
+      "age": 18,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Stopper",
+      "overall": 70,
+      "potential": 75,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 86,
+        "shooting": 59,
+        "passing": 69,
+        "dribbling": 78,
+        "defending": 65,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_05_p09",
+      "name": "Cleo Alder",
+      "nationality": "Belvaria",
+      "age": 26,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Playmaker",
+      "overall": 85,
+      "potential": 93,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 78,
+        "shooting": 51,
+        "passing": 62,
+        "dribbling": 65,
+        "defending": 70,
+        "physical": 90
+      }
+    },
+    {
+      "id": "club_05_p10",
+      "name": "Kairo Kovac",
+      "nationality": "Estovia",
+      "age": 27,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Poacher",
+      "overall": 89,
+      "potential": 90,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 76,
+        "shooting": 79,
+        "passing": 53,
+        "dribbling": 70,
+        "defending": 86,
+        "physical": 93
+      }
+    },
+    {
+      "id": "club_05_p11",
+      "name": "Quentin Moreau",
+      "nationality": "Belvaria",
+      "age": 33,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Overlapping Fullback",
+      "overall": 88,
+      "potential": 99,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 60,
+        "shooting": 78,
+        "passing": 71,
+        "dribbling": 93,
+        "defending": 39,
+        "physical": 48
+      }
+    },
+    {
+      "id": "club_05_p12",
+      "name": "Dario Ferrer",
+      "nationality": "Helvoria",
+      "age": 18,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Box-to-Box",
+      "overall": 82,
+      "potential": 92,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 51,
+        "shooting": 84,
+        "passing": 89,
+        "dribbling": 84,
+        "defending": 57,
+        "physical": 70
+      }
+    },
+    {
+      "id": "club_05_p13",
+      "name": "Rafael Zoric",
+      "nationality": "Estovia",
+      "age": 24,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Overlapping Fullback",
+      "overall": 75,
+      "potential": 80,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 92,
+        "shooting": 56,
+        "passing": 86,
+        "dribbling": 90,
+        "defending": 57,
+        "physical": 57
+      }
+    },
+    {
+      "id": "club_05_p14",
+      "name": "Victor Wolfe",
+      "nationality": "Ardania",
+      "age": 26,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 83,
+      "potential": 85,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 84,
+        "shooting": 94,
+        "passing": 92,
+        "dribbling": 85,
+        "defending": 83,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_05_p15",
+      "name": "Soren Bennett",
+      "nationality": "Estovia",
+      "age": 26,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 64,
+      "potential": 76,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 66,
+        "shooting": 85,
+        "passing": 45,
+        "dribbling": 94,
+        "defending": 41,
+        "physical": 74
+      }
+    },
+    {
+      "id": "club_05_p16",
+      "name": "Orion Okafor",
+      "nationality": "Calidora",
+      "age": 18,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 63,
+      "potential": 70,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 69,
+        "shooting": 59,
+        "passing": 56,
+        "dribbling": 83,
+        "defending": 81,
+        "physical": 77
+      }
+    },
+    {
+      "id": "club_05_p17",
+      "name": "Farid Silva",
+      "nationality": "Faron",
+      "age": 33,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 79,
+      "potential": 84,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 65,
+        "shooting": 48,
+        "passing": 82,
+        "dribbling": 67,
+        "defending": 48,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_05_p18",
+      "name": "Orion Hale",
+      "nationality": "Faron",
+      "age": 23,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Inverted Winger",
+      "overall": 69,
+      "potential": 71,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 85,
+        "shooting": 84,
+        "passing": 63,
+        "dribbling": 47,
+        "defending": 35,
+        "physical": 45
+      }
+    }
+  ],
+  "fictional_content": true
+}

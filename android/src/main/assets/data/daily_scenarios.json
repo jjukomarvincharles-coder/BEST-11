@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "scenarios": [
+    {
+      "id": "daily_comeback",
+      "title": "The Comeback",
+      "description": "Recover from a one-goal deficit.",
+      "reward": {
+        "coins": 800,
+        "xp": 350
+      }
+    }
+  ]
+}

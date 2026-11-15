@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_10",
+  "name": "Goldcrest FC",
+  "country": "Calidora",
+  "league": "Generated League 2",
+  "stadium": "Goldcrest Arena",
+  "primary_colour": "#9563FD",
+  "secondary_colour": "#55E7D2",
+  "play_style": "High Press",
+  "reputation": 5,
+  "budget": 15082793,
+  "formation": "4-3-3",
+  "players": [
+    {
+      "id": "club_10_p01",
+      "name": "Amara Caspian",
+      "nationality": "Helvoria",
+      "age": 27,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Deep-Lying Creator",
+      "overall": 73,
+      "potential": 79,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 58,
+        "shooting": 78,
+        "passing": 93,
+        "dribbling": 50,
+        "defending": 46,
+        "physical": 64
+      }
+    },
+    {
+      "id": "club_10_p02",
+      "name": "Milan Petrov",
+      "nationality": "Belvaria",
+      "age": 31,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 88,
+      "potential": 91,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 79,
+        "shooting": 75,
+        "passing": 50,
+        "dribbling": 78,
+        "defending": 53,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_10_p03",
+      "name": "Hugo Alder",
+      "nationality": "Calidora",
+      "age": 22,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Deep-Lying Creator",
+      "overall": 86,
+      "potential": 95,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 77,
+        "shooting": 88,
+        "passing": 49,
+        "dribbling": 76,
+        "defending": 87,
+        "physical": 52
+      }
+    },
+    {
+      "id": "club_10_p04",
+      "name": "Hugo Bellamy",
+      "nationality": "Galena",
+      "age": 24,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 65,
+      "potential": 69,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 53,
+        "shooting": 65,
+        "passing": 83,
+        "dribbling": 94,
+        "defending": 84,
+        "physical": 50
+      }
+    },
+    {
+      "id": "club_10_p05",
+      "name": "Rafael Kovac",
+      "nationality": "Ardania",
+      "age": 29,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Poacher",
+      "overall": 86,
+      "potential": 88,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 58,
+        "shooting": 57,
+        "passing": 83,
+        "dribbling": 76,
+        "defending": 39,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_10_p06",
+      "name": "Farid Navarro",
+      "nationality": "Galena",
+      "age": 21,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Target Forward",
+      "overall": 65,
+      "potential": 73,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 83,
+        "shooting": 41,
+        "passing": 78,
+        "dribbling": 50,
+        "defending": 75,
+        "physical": 68
+      }
+    },
+    {
+      "id": "club_10_p07",
+      "name": "Galen Ferrer",
+      "nationality": "Helvoria",
+      "age": 20,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 71,
+      "potential": 81,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 55,
+        "shooting": 85,
+        "passing": 94,
+        "dribbling": 74,
+        "defending": 66,
+        "physical": 60
+      }
+    },
+    {
+      "id": "club_10_p08",
+      "name": "Bianca Ashford",
+      "nationality": "Estovia",
+      "age": 19,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 69,
+      "potential": 80,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 57,
+        "shooting": 57,
+        "passing": 84,
+        "dribbling": 87,
+        "defending": 56,
+        "physical": 92
+      }
+    },
+    {
+      "id": "club_10_p09",
+      "name": "Galen Laurent",
+      "nationality": "Belvaria",
+      "age": 30,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Deep-Lying Creator",
+      "overall": 66,
+      "potential": 73,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 72,
+        "shooting": 54,
+        "passing": 61,
+        "dribbling": 74,
+        "defending": 88,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_10_p10",
+      "name": "Freya Gomes",
+      "nationality": "Belvaria",
+      "age": 23,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Poacher",
+      "overall": 71,
+      "potential": 76,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 85,
+        "shooting": 55,
+        "passing": 79,
+        "dribbling": 84,
+        "defending": 88,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_10_p11",
+      "name": "Dario Jensen",
+      "nationality": "Calidora",
+      "age": 18,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Overlapping Fullback",
+      "overall": 77,
+      "potential": 89,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 84,
+        "shooting": 73,
+        "passing": 81,
+        "dribbling": 52,
+        "defending": 80,
+        "physical": 65
+      }
+    },
+    {
+      "id": "club_10_p12",
+      "name": "Hugo Kovac",
+      "nationality": "Demeria",
+      "age": 21,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Box-to-Box",
+      "overall": 77,
+      "potential": 86,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 69,
+        "shooting": 75,
+        "passing": 51,
+        "dribbling": 51,
+        "defending": 90,
+        "physical": 86
+      }
+    },
+    {
+      "id": "club_10_p13",
+      "name": "Bianca Caspian",
+      "nationality": "Ardania",
+      "age": 23,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Playmaker",
+      "overall": 70,
+      "potential": 72,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 62,
+        "shooting": 55,
+        "passing": 93,
+        "dribbling": 61,
+        "defending": 37,
+        "physical": 69
+      }
+    },
+    {
+      "id": "club_10_p14",
+      "name": "Elara Ferrer",
+      "nationality": "Faron",
+      "age": 22,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Box-to-Box",
+      "overall": 82,
+      "potential": 86,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 49,
+        "shooting": 72,
+        "passing": 51,
+        "dribbling": 81,
+        "defending": 58,
+        "physical": 50
+      }
+    },
+    {
+      "id": "club_10_p15",
+      "name": "Jalen Okafor",
+      "nationality": "Galena",
+      "age": 26,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Target Forward",
+      "overall": 82,
+      "potential": 88,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 57,
+        "shooting": 87,
+        "passing": 60,
+        "dribbling": 79,
+        "defending": 55,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_10_p16",
+      "name": "Wes Quill",
+      "nationality": "Helvoria",
+      "age": 27,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Stopper",
+      "overall": 84,
+      "potential": 87,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 69,
+        "shooting": 88,
+        "passing": 71,
+        "dribbling": 63,
+        "defending": 66,
+        "physical": 62
+      }
+    },
+    {
+      "id": "club_10_p17",
+      "name": "Cleo Ferrer",
+      "nationality": "Demeria",
+      "age": 19,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 77,
+      "potential": 86,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 68,
+        "shooting": 43,
+        "passing": 65,
+        "dribbling": 87,
+        "defending": 88,
+        "physical": 54
+      }
+    },
+    {
+      "id": "club_10_p18",
+      "name": "Amara Kovac",
+      "nationality": "Calidora",
+      "age": 34,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Stopper",
+      "overall": 68,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 57,
+        "shooting": 89,
+        "passing": 77,
+        "dribbling": 51,
+        "defending": 65,
+        "physical": 90
+      }
+    }
+  ],
+  "fictional_content": true
+}

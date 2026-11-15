@@ -1,0 +1,1 @@
+Core is platform agnostic; Android manifest lives in :android.

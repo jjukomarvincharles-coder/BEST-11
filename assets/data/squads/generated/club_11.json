@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_11",
+  "name": "Riverside United",
+  "country": "Galena",
+  "league": "Generated League 2",
+  "stadium": "Riverside Arena",
+  "primary_colour": "#818510",
+  "secondary_colour": "#2FD2C8",
+  "play_style": "Possession",
+  "reputation": 5,
+  "budget": 16965578,
+  "formation": "4-3-3",
+  "players": [
+    {
+      "id": "club_11_p01",
+      "name": "Quentin Caspian",
+      "nationality": "Belvaria",
+      "age": 25,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Overlapping Fullback",
+      "overall": 84,
+      "potential": 95,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 52,
+        "shooting": 52,
+        "passing": 49,
+        "dribbling": 70,
+        "defending": 69,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_11_p02",
+      "name": "Hugo Kovac",
+      "nationality": "Faron",
+      "age": 22,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 72,
+      "potential": 73,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 67,
+        "shooting": 45,
+        "passing": 59,
+        "dribbling": 68,
+        "defending": 38,
+        "physical": 48
+      }
+    },
+    {
+      "id": "club_11_p03",
+      "name": "Milan Kovac",
+      "nationality": "Calidora",
+      "age": 34,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 74,
+      "potential": 81,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 74,
+        "shooting": 43,
+        "passing": 74,
+        "dribbling": 93,
+        "defending": 82,
+        "physical": 62
+      }
+    },
+    {
+      "id": "club_11_p04",
+      "name": "Hugo Laurent",
+      "nationality": "Calidora",
+      "age": 25,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 85,
+      "potential": 91,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 90,
+        "shooting": 51,
+        "passing": 45,
+        "dribbling": 62,
+        "defending": 62,
+        "physical": 92
+      }
+    },
+    {
+      "id": "club_11_p05",
+      "name": "Victor Upton",
+      "nationality": "Estovia",
+      "age": 18,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Stopper",
+      "overall": 67,
+      "potential": 75,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 90,
+        "shooting": 66,
+        "passing": 61,
+        "dribbling": 83,
+        "defending": 42,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_11_p06",
+      "name": "Milan Bellamy",
+      "nationality": "Demeria",
+      "age": 26,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Target Forward",
+      "overall": 88,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 66,
+        "shooting": 67,
+        "passing": 63,
+        "dribbling": 53,
+        "defending": 65,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_11_p07",
+      "name": "Milan Upton",
+      "nationality": "Demeria",
+      "age": 25,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Stopper",
+      "overall": 73,
+      "potential": 82,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 66,
+        "shooting": 41,
+        "passing": 72,
+        "dribbling": 56,
+        "defending": 42,
+        "physical": 85
+      }
+    },
+    {
+      "id": "club_11_p08",
+      "name": "Farid Tanaka",
+      "nationality": "Ardania",
+      "age": 21,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Deep-Lying Creator",
+      "overall": 76,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 59,
+        "shooting": 82,
+        "passing": 73,
+        "dribbling": 56,
+        "defending": 58,
+        "physical": 72
+      }
+    },
+    {
+      "id": "club_11_p09",
+      "name": "Wes Yilmaz",
+      "nationality": "Galena",
+      "age": 25,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 79,
+      "potential": 85,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 62,
+        "shooting": 41,
+        "passing": 52,
+        "dribbling": 90,
+        "defending": 38,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_11_p10",
+      "name": "Bastian Varga",
+      "nationality": "Ardania",
+      "age": 30,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Inverted Winger",
+      "overall": 67,
+      "potential": 74,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 91,
+        "shooting": 81,
+        "passing": 77,
+        "dribbling": 45,
+        "defending": 82,
+        "physical": 63
+      }
+    },
+    {
+      "id": "club_11_p11",
+      "name": "Farid Quill",
+      "nationality": "Galena",
+      "age": 27,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Overlapping Fullback",
+      "overall": 84,
+      "potential": 90,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 57,
+        "shooting": 55,
+        "passing": 45,
+        "dribbling": 73,
+        "defending": 57,
+        "physical": 66
+      }
+    },
+    {
+      "id": "club_11_p12",
+      "name": "Soren Bennett",
+      "nationality": "Faron",
+      "age": 19,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 72,
+      "potential": 73,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 72,
+        "shooting": 58,
+        "passing": 68,
+        "dribbling": 86,
+        "defending": 90,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_11_p13",
+      "name": "Niko Bellamy",
+      "nationality": "Calidora",
+      "age": 24,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Target Forward",
+      "overall": 73,
+      "potential": 77,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 51,
+        "shooting": 92,
+        "passing": 55,
+        "dribbling": 64,
+        "defending": 59,
+        "physical": 70
+      }
+    },
+    {
+      "id": "club_11_p14",
+      "name": "Bastian Hale",
+      "nationality": "Estovia",
+      "age": 28,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Box-to-Box",
+      "overall": 85,
+      "potential": 87,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 92,
+        "shooting": 90,
+        "passing": 49,
+        "dribbling": 84,
+        "defending": 42,
+        "physical": 93
+      }
+    },
+    {
+      "id": "club_11_p15",
+      "name": "Idris Bennett",
+      "nationality": "Belvaria",
+      "age": 22,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 79,
+      "potential": 84,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 87,
+        "shooting": 80,
+        "passing": 49,
+        "dribbling": 70,
+        "defending": 38,
+        "physical": 57
+      }
+    },
+    {
+      "id": "club_11_p16",
+      "name": "Galen Ashford",
+      "nationality": "Estovia",
+      "age": 27,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Box-to-Box",
+      "overall": 67,
+      "potential": 68,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 74,
+        "shooting": 49,
+        "passing": 91,
+        "dribbling": 42,
+        "defending": 77,
+        "physical": 73
+      }
+    },
+    {
+      "id": "club_11_p17",
+      "name": "Bianca Upton",
+      "nationality": "Helvoria",
+      "age": 21,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 70,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 85,
+        "shooting": 92,
+        "passing": 50,
+        "dribbling": 75,
+        "defending": 48,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_11_p18",
+      "name": "Cael Quill",
+      "nationality": "Belvaria",
+      "age": 18,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Sweeper Keeper",
+      "overall": 78,
+      "potential": 79,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 94,
+        "shooting": 58,
+        "passing": 82,
+        "dribbling": 49,
+        "defending": 54,
+        "physical": 50
+      }
+    }
+  ],
+  "fictional_content": true
+}

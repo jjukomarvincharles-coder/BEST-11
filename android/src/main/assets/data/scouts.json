@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "scouts": [
+    {
+      "id": "scout_01",
+      "name": "Rafi Silva",
+      "region": "North",
+      "judgement": 78
+    }
+  ]
+}

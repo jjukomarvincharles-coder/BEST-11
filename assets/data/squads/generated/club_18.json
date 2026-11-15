@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_18",
+  "name": "Sunridge FC",
+  "country": "Galena",
+  "league": "Generated League 3",
+  "stadium": "Sunridge Arena",
+  "primary_colour": "#63E1D9",
+  "secondary_colour": "#B6198F",
+  "play_style": "Possession",
+  "reputation": 3,
+  "budget": 23594823,
+  "formation": "4-1-4-1",
+  "players": [
+    {
+      "id": "club_18_p01",
+      "name": "Wes Moreau",
+      "nationality": "Estovia",
+      "age": 18,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Target Forward",
+      "overall": 65,
+      "potential": 72,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 87,
+        "shooting": 65,
+        "passing": 73,
+        "dribbling": 50,
+        "defending": 92,
+        "physical": 66
+      }
+    },
+    {
+      "id": "club_18_p02",
+      "name": "Bastian Petrov",
+      "nationality": "Ardania",
+      "age": 26,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Poacher",
+      "overall": 70,
+      "potential": 70,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 90,
+        "shooting": 55,
+        "passing": 59,
+        "dribbling": 75,
+        "defending": 46,
+        "physical": 55
+      }
+    },
+    {
+      "id": "club_18_p03",
+      "name": "Hugo Bellamy",
+      "nationality": "Faron",
+      "age": 33,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 68,
+      "potential": 74,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 87,
+        "shooting": 55,
+        "passing": 56,
+        "dribbling": 87,
+        "defending": 82,
+        "physical": 74
+      }
+    },
+    {
+      "id": "club_18_p04",
+      "name": "Rafael Jensen",
+      "nationality": "Estovia",
+      "age": 21,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 79,
+      "potential": 84,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 58,
+        "shooting": 56,
+        "passing": 56,
+        "dribbling": 87,
+        "defending": 76,
+        "physical": 90
+      }
+    },
+    {
+      "id": "club_18_p05",
+      "name": "Dahlia Petrov",
+      "nationality": "Belvaria",
+      "age": 19,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Stopper",
+      "overall": 86,
+      "potential": 90,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 81,
+        "shooting": 89,
+        "passing": 54,
+        "dribbling": 56,
+        "defending": 59,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_18_p06",
+      "name": "Wes Gomes",
+      "nationality": "Helvoria",
+      "age": 25,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 85,
+      "potential": 93,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 80,
+        "shooting": 74,
+        "passing": 91,
+        "dribbling": 61,
+        "defending": 35,
+        "physical": 59
+      }
+    },
+    {
+      "id": "club_18_p07",
+      "name": "Dario Bellamy",
+      "nationality": "Estovia",
+      "age": 19,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Playmaker",
+      "overall": 89,
+      "potential": 99,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 93,
+        "shooting": 56,
+        "passing": 63,
+        "dribbling": 91,
+        "defending": 78,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_18_p08",
+      "name": "Victor Silva",
+      "nationality": "Estovia",
+      "age": 30,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 66,
+      "potential": 76,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 78,
+        "shooting": 59,
+        "passing": 70,
+        "dribbling": 93,
+        "defending": 46,
+        "physical": 59
+      }
+    },
+    {
+      "id": "club_18_p09",
+      "name": "Orion Caspian",
+      "nationality": "Ardania",
+      "age": 31,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 69,
+      "potential": 76,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 85,
+        "shooting": 46,
+        "passing": 82,
+        "dribbling": 49,
+        "defending": 40,
+        "physical": 50
+      }
+    },
+    {
+      "id": "club_18_p10",
+      "name": "Tariq Alder",
+      "nationality": "Estovia",
+      "age": 30,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 66,
+      "potential": 67,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 82,
+        "shooting": 80,
+        "passing": 46,
+        "dribbling": 47,
+        "defending": 92,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_18_p11",
+      "name": "Galen Wolfe",
+      "nationality": "Demeria",
+      "age": 31,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Target Forward",
+      "overall": 77,
+      "potential": 79,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 85,
+        "shooting": 68,
+        "passing": 89,
+        "dribbling": 81,
+        "defending": 83,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_18_p12",
+      "name": "Galen Okafor",
+      "nationality": "Demeria",
+      "age": 34,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Deep-Lying Creator",
+      "overall": 76,
+      "potential": 76,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 66,
+        "shooting": 69,
+        "passing": 71,
+        "dribbling": 50,
+        "defending": 89,
+        "physical": 90
+      }
+    },
+    {
+      "id": "club_18_p13",
+      "name": "Dahlia Yilmaz",
+      "nationality": "Ardania",
+      "age": 20,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Deep-Lying Creator",
+      "overall": 69,
+      "potential": 69,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 60,
+        "shooting": 84,
+        "passing": 88,
+        "dribbling": 64,
+        "defending": 68,
+        "physical": 60
+      }
+    },
+    {
+      "id": "club_18_p14",
+      "name": "Jalen Wolfe",
+      "nationality": "Ardania",
+      "age": 22,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Stopper",
+      "overall": 84,
+      "potential": 93,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 67,
+        "shooting": 50,
+        "passing": 92,
+        "dribbling": 53,
+        "defending": 42,
+        "physical": 71
+      }
+    },
+    {
+      "id": "club_18_p15",
+      "name": "Ari Ferrer",
+      "nationality": "Faron",
+      "age": 25,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 85,
+      "potential": 87,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 52,
+        "shooting": 54,
+        "passing": 63,
+        "dribbling": 50,
+        "defending": 73,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_18_p16",
+      "name": "Soren Bennett",
+      "nationality": "Helvoria",
+      "age": 21,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 69,
+      "potential": 76,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 86,
+        "shooting": 93,
+        "passing": 92,
+        "dribbling": 91,
+        "defending": 60,
+        "physical": 61
+      }
+    },
+    {
+      "id": "club_18_p17",
+      "name": "Tariq Silva",
+      "nationality": "Galena",
+      "age": 30,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Target Forward",
+      "overall": 78,
+      "potential": 80,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 80,
+        "shooting": 44,
+        "passing": 47,
+        "dribbling": 76,
+        "defending": 36,
+        "physical": 59
+      }
+    },
+    {
+      "id": "club_18_p18",
+      "name": "Farid Navarro",
+      "nationality": "Demeria",
+      "age": 33,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Sweeper Keeper",
+      "overall": 80,
+      "potential": 83,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 86,
+        "shooting": 51,
+        "passing": 84,
+        "dribbling": 79,
+        "defending": 53,
+        "physical": 79
+      }
+    }
+  ],
+  "fictional_content": true
+}

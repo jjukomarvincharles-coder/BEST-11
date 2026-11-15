@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_01",
+  "name": "Northstar City",
+  "country": "Belvaria",
+  "league": "Generated League 1",
+  "stadium": "Northstar Arena",
+  "primary_colour": "#808739",
+  "secondary_colour": "#D70272",
+  "play_style": "Wide Play",
+  "reputation": 3,
+  "budget": 40886111,
+  "formation": "3-5-2",
+  "players": [
+    {
+      "id": "club_01_p01",
+      "name": "Amara Kovac",
+      "nationality": "Calidora",
+      "age": 31,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Box-to-Box",
+      "overall": 87,
+      "potential": 87,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 64,
+        "shooting": 76,
+        "passing": 70,
+        "dribbling": 82,
+        "defending": 43,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_01_p02",
+      "name": "Soren Zoric",
+      "nationality": "Helvoria",
+      "age": 30,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Poacher",
+      "overall": 69,
+      "potential": 70,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 53,
+        "shooting": 65,
+        "passing": 48,
+        "dribbling": 86,
+        "defending": 46,
+        "physical": 85
+      }
+    },
+    {
+      "id": "club_01_p03",
+      "name": "Freya Varga",
+      "nationality": "Belvaria",
+      "age": 24,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Target Forward",
+      "overall": 77,
+      "potential": 88,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 72,
+        "shooting": 74,
+        "passing": 65,
+        "dribbling": 50,
+        "defending": 78,
+        "physical": 69
+      }
+    },
+    {
+      "id": "club_01_p04",
+      "name": "Luca Bennett",
+      "nationality": "Estovia",
+      "age": 28,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Ball Winner",
+      "overall": 73,
+      "potential": 73,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 67,
+        "shooting": 56,
+        "passing": 67,
+        "dribbling": 57,
+        "defending": 61,
+        "physical": 91
+      }
+    },
+    {
+      "id": "club_01_p05",
+      "name": "Jalen Bellamy",
+      "nationality": "Galena",
+      "age": 31,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Stopper",
+      "overall": 84,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 65,
+        "shooting": 49,
+        "passing": 46,
+        "dribbling": 83,
+        "defending": 70,
+        "physical": 80
+      }
+    },
+    {
+      "id": "club_01_p06",
+      "name": "Elara Kovac",
+      "nationality": "Estovia",
+      "age": 31,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 77,
+      "potential": 83,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 70,
+        "shooting": 69,
+        "passing": 64,
+        "dribbling": 79,
+        "defending": 72,
+        "physical": 53
+      }
+    },
+    {
+      "id": "club_01_p07",
+      "name": "Elias Everly",
+      "nationality": "Calidora",
+      "age": 19,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 82,
+      "potential": 83,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 71,
+        "shooting": 73,
+        "passing": 73,
+        "dribbling": 60,
+        "defending": 40,
+        "physical": 59
+      }
+    },
+    {
+      "id": "club_01_p08",
+      "name": "Elara Ashford",
+      "nationality": "Demeria",
+      "age": 19,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 78,
+      "potential": 83,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 88,
+        "shooting": 55,
+        "passing": 50,
+        "dribbling": 80,
+        "defending": 38,
+        "physical": 50
+      }
+    },
+    {
+      "id": "club_01_p09",
+      "name": "Soren Jensen",
+      "nationality": "Helvoria",
+      "age": 27,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 84,
+      "potential": 92,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 57,
+        "shooting": 81,
+        "passing": 70,
+        "dribbling": 47,
+        "defending": 67,
+        "physical": 93
+      }
+    },
+    {
+      "id": "club_01_p10",
+      "name": "Galen Duarte",
+      "nationality": "Estovia",
+      "age": 27,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 68,
+      "potential": 68,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 69,
+        "shooting": 74,
+        "passing": 64,
+        "dribbling": 55,
+        "defending": 92,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_01_p11",
+      "name": "Luca Wolfe",
+      "nationality": "Demeria",
+      "age": 30,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Sweeper Keeper",
+      "overall": 89,
+      "potential": 89,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 73,
+        "shooting": 91,
+        "passing": 52,
+        "dribbling": 68,
+        "defending": 92,
+        "physical": 68
+      }
+    },
+    {
+      "id": "club_01_p12",
+      "name": "Soren Everly",
+      "nationality": "Estovia",
+      "age": 30,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Inverted Winger",
+      "overall": 63,
+      "potential": 73,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 89,
+        "shooting": 46,
+        "passing": 60,
+        "dribbling": 91,
+        "defending": 51,
+        "physical": 59
+      }
+    },
+    {
+      "id": "club_01_p13",
+      "name": "Quentin Everly",
+      "nationality": "Belvaria",
+      "age": 23,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Stopper",
+      "overall": 79,
+      "potential": 82,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 87,
+        "shooting": 86,
+        "passing": 87,
+        "dribbling": 47,
+        "defending": 91,
+        "physical": 48
+      }
+    },
+    {
+      "id": "club_01_p14",
+      "name": "Rafael Zoric",
+      "nationality": "Estovia",
+      "age": 25,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Poacher",
+      "overall": 70,
+      "potential": 77,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 54,
+        "shooting": 48,
+        "passing": 85,
+        "dribbling": 94,
+        "defending": 43,
+        "physical": 67
+      }
+    },
+    {
+      "id": "club_01_p15",
+      "name": "Elara Gomes",
+      "nationality": "Belvaria",
+      "age": 28,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Playmaker",
+      "overall": 76,
+      "potential": 84,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 52,
+        "shooting": 41,
+        "passing": 69,
+        "dribbling": 84,
+        "defending": 64,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_01_p16",
+      "name": "Luca Hale",
+      "nationality": "Demeria",
+      "age": 22,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Playmaker",
+      "overall": 76,
+      "potential": 84,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 64,
+        "shooting": 79,
+        "passing": 46,
+        "dribbling": 82,
+        "defending": 56,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_01_p17",
+      "name": "Farid Upton",
+      "nationality": "Demeria",
+      "age": 30,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Target Forward",
+      "overall": 81,
+      "potential": 93,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 82,
+        "shooting": 74,
+        "passing": 56,
+        "dribbling": 73,
+        "defending": 37,
+        "physical": 58
+      }
+    },
+    {
+      "id": "club_01_p18",
+      "name": "Rafael Kovac",
+      "nationality": "Demeria",
+      "age": 28,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Playmaker",
+      "overall": 69,
+      "potential": 79,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 58,
+        "shooting": 50,
+        "passing": 90,
+        "dribbling": 93,
+        "defending": 41,
+        "physical": 54
+      }
+    }
+  ],
+  "fictional_content": true
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_20",
+  "name": "Windermere City",
+  "country": "Faron",
+  "league": "Generated League 3",
+  "stadium": "Windermere Arena",
+  "primary_colour": "#CEEC5A",
+  "secondary_colour": "#195296",
+  "play_style": "Balanced",
+  "reputation": 2,
+  "budget": 32120275,
+  "formation": "4-4-2",
+  "players": [
+    {
+      "id": "club_20_p01",
+      "name": "Milan Quill",
+      "nationality": "Galena",
+      "age": 29,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Playmaker",
+      "overall": 88,
+      "potential": 99,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 75,
+        "shooting": 62,
+        "passing": 65,
+        "dribbling": 50,
+        "defending": 86,
+        "physical": 49
+      }
+    },
+    {
+      "id": "club_20_p02",
+      "name": "Quentin Reyes",
+      "nationality": "Calidora",
+      "age": 21,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Box-to-Box",
+      "overall": 89,
+      "potential": 99,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 84,
+        "shooting": 40,
+        "passing": 65,
+        "dribbling": 90,
+        "defending": 51,
+        "physical": 94
+      }
+    },
+    {
+      "id": "club_20_p03",
+      "name": "Yuri Bennett",
+      "nationality": "Faron",
+      "age": 27,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Box-to-Box",
+      "overall": 70,
+      "potential": 78,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 72,
+        "shooting": 49,
+        "passing": 55,
+        "dribbling": 89,
+        "defending": 63,
+        "physical": 94
+      }
+    },
+    {
+      "id": "club_20_p04",
+      "name": "Pavel Alder",
+      "nationality": "Belvaria",
+      "age": 29,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Box-to-Box",
+      "overall": 87,
+      "potential": 96,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 83,
+        "shooting": 47,
+        "passing": 79,
+        "dribbling": 52,
+        "defending": 94,
+        "physical": 45
+      }
+    },
+    {
+      "id": "club_20_p05",
+      "name": "Cleo Silva",
+      "nationality": "Belvaria",
+      "age": 30,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Deep-Lying Creator",
+      "overall": 89,
+      "potential": 90,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 76,
+        "shooting": 41,
+        "passing": 57,
+        "dribbling": 77,
+        "defending": 43,
+        "physical": 82
+      }
+    },
+    {
+      "id": "club_20_p06",
+      "name": "Quentin Navarro",
+      "nationality": "Estovia",
+      "age": 22,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Deep-Lying Creator",
+      "overall": 86,
+      "potential": 98,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 91,
+        "shooting": 61,
+        "passing": 84,
+        "dribbling": 92,
+        "defending": 79,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_20_p07",
+      "name": "Soren Xu",
+      "nationality": "Helvoria",
+      "age": 27,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Poacher",
+      "overall": 76,
+      "potential": 86,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 76,
+        "shooting": 53,
+        "passing": 46,
+        "dribbling": 59,
+        "defending": 47,
+        "physical": 63
+      }
+    },
+    {
+      "id": "club_20_p08",
+      "name": "Luca Everly",
+      "nationality": "Helvoria",
+      "age": 22,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Stopper",
+      "overall": 75,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 71,
+        "shooting": 83,
+        "passing": 92,
+        "dribbling": 72,
+        "defending": 49,
+        "physical": 70
+      }
+    },
+    {
+      "id": "club_20_p09",
+      "name": "Cleo Duarte",
+      "nationality": "Calidora",
+      "age": 26,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Poacher",
+      "overall": 79,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 78,
+        "shooting": 92,
+        "passing": 53,
+        "dribbling": 76,
+        "defending": 62,
+        "physical": 46
+      }
+    },
+    {
+      "id": "club_20_p10",
+      "name": "Jalen Petrov",
+      "nationality": "Demeria",
+      "age": 21,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Inverted Winger",
+      "overall": 87,
+      "potential": 89,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 86,
+        "shooting": 44,
+        "passing": 80,
+        "dribbling": 61,
+        "defending": 82,
+        "physical": 55
+      }
+    },
+    {
+      "id": "club_20_p11",
+      "name": "Jalen Everly",
+      "nationality": "Faron",
+      "age": 19,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 68,
+      "potential": 70,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 57,
+        "shooting": 90,
+        "passing": 70,
+        "dribbling": 77,
+        "defending": 74,
+        "physical": 48
+      }
+    },
+    {
+      "id": "club_20_p12",
+      "name": "Hugo Navarro",
+      "nationality": "Faron",
+      "age": 21,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Ball Winner",
+      "overall": 81,
+      "potential": 89,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 92,
+        "shooting": 55,
+        "passing": 68,
+        "dribbling": 70,
+        "defending": 89,
+        "physical": 91
+      }
+    },
+    {
+      "id": "club_20_p13",
+      "name": "Cael Yilmaz",
+      "nationality": "Belvaria",
+      "age": 23,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Box-to-Box",
+      "overall": 62,
+      "potential": 71,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 58,
+        "shooting": 65,
+        "passing": 73,
+        "dribbling": 70,
+        "defending": 92,
+        "physical": 53
+      }
+    },
+    {
+      "id": "club_20_p14",
+      "name": "Ari Bellamy",
+      "nationality": "Helvoria",
+      "age": 27,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Inverted Winger",
+      "overall": 74,
+      "potential": 85,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 66,
+        "shooting": 62,
+        "passing": 72,
+        "dribbling": 91,
+        "defending": 88,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_20_p15",
+      "name": "Tariq Bennett",
+      "nationality": "Galena",
+      "age": 25,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Stopper",
+      "overall": 85,
+      "potential": 95,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 55,
+        "shooting": 94,
+        "passing": 67,
+        "dribbling": 58,
+        "defending": 53,
+        "physical": 57
+      }
+    },
+    {
+      "id": "club_20_p16",
+      "name": "Zane Zoric",
+      "nationality": "Galena",
+      "age": 29,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Stopper",
+      "overall": 63,
+      "potential": 66,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 61,
+        "shooting": 73,
+        "passing": 48,
+        "dribbling": 73,
+        "defending": 76,
+        "physical": 91
+      }
+    },
+    {
+      "id": "club_20_p17",
+      "name": "Luca Caspian",
+      "nationality": "Ardania",
+      "age": 20,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 84,
+      "potential": 91,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 50,
+        "shooting": 64,
+        "passing": 74,
+        "dribbling": 59,
+        "defending": 71,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_20_p18",
+      "name": "Kairo Bellamy",
+      "nationality": "Belvaria",
+      "age": 31,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 81,
+      "potential": 86,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 58,
+        "shooting": 47,
+        "passing": 76,
+        "dribbling": 46,
+        "defending": 88,
+        "physical": 45
+      }
+    }
+  ],
+  "fictional_content": true
+}

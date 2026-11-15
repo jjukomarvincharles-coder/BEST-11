@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "roles": [
+    {
+      "id": "sweeper_keeper",
+      "name": "Sweeper Keeper",
+      "positions": [
+        "GK"
+      ],
+      "focus": [
+        "distribution",
+        "off_line_defending"
+      ]
+    },
+    {
+      "id": "ball_playing_defender",
+      "name": "Ball-Playing Defender",
+      "positions": [
+        "CB"
+      ],
+      "focus": [
+        "passing",
+        "build_up"
+      ]
+    },
+    {
+      "id": "stopper",
+      "name": "Stopper",
+      "positions": [
+        "CB"
+      ],
+      "focus": [
+        "duels",
+        "aggression"
+      ]
+    },
+    {
+      "id": "inverted_fullback",
+      "name": "Inverted Fullback",
+      "positions": [
+        "RB",
+        "LB"
+      ],
+      "focus": [
+        "central_support",
+        "passing"
+      ]
+    },
+    {
+      "id": "overlapping_fullback",
+      "name": "Overlapping Fullback",
+      "positions": [
+        "RB",
+        "LB"
+      ],
+      "focus": [
+        "width",
+        "crossing"
+      ]
+    },
+    {
+      "id": "anchor",
+      "name": "Anchor",
+      "positions": [
+        "CDM",
+        "DM"
+      ],
+      "focus": [
+        "positioning",
+        "interceptions"
+      ]
+    },
+    {
+      "id": "deep_lying_playmaker",
+      "name": "Deep-Lying Playmaker",
+      "positions": [
+        "CDM",
+        "CM"
+      ],
+      "focus": [
+        "vision",
+        "passing"
+      ]
+    },
+    {
+      "id": "mezzala",
+      "name": "Mezzala",
+      "positions": [
+        "CM"
+      ],
+      "focus": [
+        "half_space_runs",
+        "creativity"
+      ]
+    },
+    {
+      "id": "box_to_box",
+      "name": "Box-to-Box Midfielder",
+      "positions": [
+        "CM"
+      ],
+      "focus": [
+        "stamina",
+        "transitions"
+      ]
+    },
+    {
+      "id": "classic_winger",
+      "name": "Classic Winger",
+      "positions": [
+        "RW",
+        "LW",
+        "W"
+      ],
+      "focus": [
+        "width",
+        "crossing"
+      ]
+    },
+    {
+      "id": "inside_forward",
+      "name": "Inside Forward",
+      "positions": [
+        "RW",
+        "LW"
+      ],
+      "focus": [
+        "cut_inside",
+        "finishing"
+      ]
+    },
+    {
+      "id": "false_nine",
+      "name": "False Nine",
+      "positions": [
+        "ST"
+      ],
+      "focus": [
+        "link_play",
+        "movement"
+      ]
+    },
+    {
+      "id": "poacher",
+      "name": "Poacher",
+      "positions": [
+        "ST"
+      ],
+      "focus": [
+        "finishing",
+        "box_movement"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_13",
+  "name": "Brighton Vale Rovers",
+  "country": "Galena",
+  "league": "Generated League 2",
+  "stadium": "Brighton Arena",
+  "primary_colour": "#72075C",
+  "secondary_colour": "#B83376",
+  "play_style": "Direct",
+  "reputation": 3,
+  "budget": 39514423,
+  "formation": "3-5-2",
+  "players": [
+    {
+      "id": "club_13_p01",
+      "name": "Farid Wolfe",
+      "nationality": "Demeria",
+      "age": 25,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Deep-Lying Creator",
+      "overall": 72,
+      "potential": 84,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 94,
+        "shooting": 87,
+        "passing": 90,
+        "dribbling": 57,
+        "defending": 52,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_13_p02",
+      "name": "Idris Kovac",
+      "nationality": "Helvoria",
+      "age": 28,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Ball Winner",
+      "overall": 84,
+      "potential": 96,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 90,
+        "shooting": 60,
+        "passing": 65,
+        "dribbling": 79,
+        "defending": 54,
+        "physical": 75
+      }
+    },
+    {
+      "id": "club_13_p03",
+      "name": "Orion Navarro",
+      "nationality": "Helvoria",
+      "age": 28,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Poacher",
+      "overall": 68,
+      "potential": 76,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 74,
+        "shooting": 82,
+        "passing": 50,
+        "dribbling": 80,
+        "defending": 85,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_13_p04",
+      "name": "Cael Moreau",
+      "nationality": "Calidora",
+      "age": 32,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 77,
+      "potential": 89,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 72,
+        "shooting": 85,
+        "passing": 53,
+        "dribbling": 76,
+        "defending": 50,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_13_p05",
+      "name": "Jalen Bennett",
+      "nationality": "Helvoria",
+      "age": 24,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 81,
+      "potential": 88,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 74,
+        "shooting": 81,
+        "passing": 55,
+        "dribbling": 78,
+        "defending": 61,
+        "physical": 62
+      }
+    },
+    {
+      "id": "club_13_p06",
+      "name": "Zane Varga",
+      "nationality": "Belvaria",
+      "age": 32,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Target Forward",
+      "overall": 88,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 54,
+        "shooting": 90,
+        "passing": 69,
+        "dribbling": 75,
+        "defending": 72,
+        "physical": 92
+      }
+    },
+    {
+      "id": "club_13_p07",
+      "name": "Kairo Quill",
+      "nationality": "Calidora",
+      "age": 25,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 87,
+      "potential": 91,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 62,
+        "shooting": 40,
+        "passing": 60,
+        "dribbling": 51,
+        "defending": 89,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_13_p08",
+      "name": "Uriel Bennett",
+      "nationality": "Helvoria",
+      "age": 23,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Stopper",
+      "overall": 78,
+      "potential": 80,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 63,
+        "shooting": 79,
+        "passing": 91,
+        "dribbling": 89,
+        "defending": 58,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_13_p09",
+      "name": "Galen Alder",
+      "nationality": "Galena",
+      "age": 31,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 65,
+      "potential": 66,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 48,
+        "shooting": 86,
+        "passing": 53,
+        "dribbling": 54,
+        "defending": 42,
+        "physical": 65
+      }
+    },
+    {
+      "id": "club_13_p10",
+      "name": "Jalen Reyes",
+      "nationality": "Helvoria",
+      "age": 28,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Deep-Lying Creator",
+      "overall": 88,
+      "potential": 97,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 64,
+        "shooting": 54,
+        "passing": 60,
+        "dribbling": 51,
+        "defending": 71,
+        "physical": 79
+      }
+    },
+    {
+      "id": "club_13_p11",
+      "name": "Zane Okafor",
+      "nationality": "Faron",
+      "age": 32,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Ball Winner",
+      "overall": 81,
+      "potential": 84,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 79,
+        "shooting": 44,
+        "passing": 52,
+        "dribbling": 72,
+        "defending": 82,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_13_p12",
+      "name": "Rafael Tanaka",
+      "nationality": "Helvoria",
+      "age": 22,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Ball Winner",
+      "overall": 84,
+      "potential": 84,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 82,
+        "shooting": 45,
+        "passing": 50,
+        "dribbling": 85,
+        "defending": 48,
+        "physical": 82
+      }
+    },
+    {
+      "id": "club_13_p13",
+      "name": "Cleo Kovac",
+      "nationality": "Demeria",
+      "age": 29,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Target Forward",
+      "overall": 71,
+      "potential": 71,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 56,
+        "shooting": 60,
+        "passing": 91,
+        "dribbling": 88,
+        "defending": 47,
+        "physical": 77
+      }
+    },
+    {
+      "id": "club_13_p14",
+      "name": "Farid Ashford",
+      "nationality": "Galena",
+      "age": 34,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 72,
+      "potential": 72,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 58,
+        "shooting": 53,
+        "passing": 54,
+        "dribbling": 92,
+        "defending": 54,
+        "physical": 75
+      }
+    },
+    {
+      "id": "club_13_p15",
+      "name": "Zane Reyes",
+      "nationality": "Calidora",
+      "age": 24,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 86,
+      "potential": 86,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 52,
+        "shooting": 50,
+        "passing": 76,
+        "dribbling": 56,
+        "defending": 53,
+        "physical": 80
+      }
+    },
+    {
+      "id": "club_13_p16",
+      "name": "Niko Ashford",
+      "nationality": "Belvaria",
+      "age": 31,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 76,
+      "potential": 79,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 53,
+        "shooting": 56,
+        "passing": 92,
+        "dribbling": 55,
+        "defending": 68,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_13_p17",
+      "name": "Yuri Everly",
+      "nationality": "Estovia",
+      "age": 23,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Playmaker",
+      "overall": 63,
+      "potential": 74,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 75,
+        "shooting": 52,
+        "passing": 92,
+        "dribbling": 61,
+        "defending": 38,
+        "physical": 80
+      }
+    },
+    {
+      "id": "club_13_p18",
+      "name": "Luca Quill",
+      "nationality": "Helvoria",
+      "age": 33,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Inverted Winger",
+      "overall": 65,
+      "potential": 70,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 71,
+        "shooting": 47,
+        "passing": 56,
+        "dribbling": 60,
+        "defending": 38,
+        "physical": 72
+      }
+    }
+  ],
+  "fictional_content": true
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_07",
+  "name": "Eastvale Wanderers",
+  "country": "Ardania",
+  "league": "Generated League 1",
+  "stadium": "Eastvale Arena",
+  "primary_colour": "#F30C27",
+  "secondary_colour": "#FAFB5C",
+  "play_style": "Balanced",
+  "reputation": 5,
+  "budget": 24103738,
+  "formation": "4-3-3",
+  "players": [
+    {
+      "id": "club_07_p01",
+      "name": "Luca Kovac",
+      "nationality": "Helvoria",
+      "age": 31,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Overlapping Fullback",
+      "overall": 88,
+      "potential": 92,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 53,
+        "shooting": 78,
+        "passing": 64,
+        "dribbling": 89,
+        "defending": 86,
+        "physical": 73
+      }
+    },
+    {
+      "id": "club_07_p02",
+      "name": "Farid Bellamy",
+      "nationality": "Ardania",
+      "age": 28,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Box-to-Box",
+      "overall": 88,
+      "potential": 99,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 70,
+        "shooting": 46,
+        "passing": 59,
+        "dribbling": 81,
+        "defending": 60,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_07_p03",
+      "name": "Bianca Hale",
+      "nationality": "Belvaria",
+      "age": 30,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Playmaker",
+      "overall": 80,
+      "potential": 91,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 50,
+        "shooting": 64,
+        "passing": 46,
+        "dribbling": 61,
+        "defending": 84,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_07_p04",
+      "name": "Amara Laurent",
+      "nationality": "Faron",
+      "age": 34,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Stopper",
+      "overall": 69,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 62,
+        "shooting": 58,
+        "passing": 58,
+        "dribbling": 93,
+        "defending": 82,
+        "physical": 91
+      }
+    },
+    {
+      "id": "club_07_p05",
+      "name": "Quentin Moreau",
+      "nationality": "Helvoria",
+      "age": 25,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Box-to-Box",
+      "overall": 80,
+      "potential": 87,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 61,
+        "shooting": 47,
+        "passing": 53,
+        "dribbling": 43,
+        "defending": 93,
+        "physical": 88
+      }
+    },
+    {
+      "id": "club_07_p06",
+      "name": "Freya Wolfe",
+      "nationality": "Faron",
+      "age": 34,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 67,
+      "potential": 68,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 86,
+        "shooting": 48,
+        "passing": 53,
+        "dribbling": 56,
+        "defending": 47,
+        "physical": 71
+      }
+    },
+    {
+      "id": "club_07_p07",
+      "name": "Niko Varga",
+      "nationality": "Belvaria",
+      "age": 21,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Playmaker",
+      "overall": 83,
+      "potential": 84,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 61,
+        "shooting": 86,
+        "passing": 49,
+        "dribbling": 66,
+        "defending": 45,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_07_p08",
+      "name": "Cael Caspian",
+      "nationality": "Helvoria",
+      "age": 34,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 66,
+      "potential": 66,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 58,
+        "shooting": 50,
+        "passing": 75,
+        "dribbling": 68,
+        "defending": 39,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_07_p09",
+      "name": "Bastian Hale",
+      "nationality": "Galena",
+      "age": 20,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 74,
+      "potential": 76,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 75,
+        "shooting": 67,
+        "passing": 90,
+        "dribbling": 49,
+        "defending": 41,
+        "physical": 53
+      }
+    },
+    {
+      "id": "club_07_p10",
+      "name": "Yuri Quill",
+      "nationality": "Galena",
+      "age": 29,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Sweeper Keeper",
+      "overall": 69,
+      "potential": 78,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 65,
+        "shooting": 86,
+        "passing": 74,
+        "dribbling": 89,
+        "defending": 70,
+        "physical": 62
+      }
+    },
+    {
+      "id": "club_07_p11",
+      "name": "Elara Everly",
+      "nationality": "Faron",
+      "age": 23,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Stopper",
+      "overall": 80,
+      "potential": 82,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 69,
+        "shooting": 91,
+        "passing": 91,
+        "dribbling": 43,
+        "defending": 49,
+        "physical": 49
+      }
+    },
+    {
+      "id": "club_07_p12",
+      "name": "Kairo Zoric",
+      "nationality": "Calidora",
+      "age": 27,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Stopper",
+      "overall": 67,
+      "potential": 73,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 77,
+        "shooting": 86,
+        "passing": 70,
+        "dribbling": 82,
+        "defending": 67,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_07_p13",
+      "name": "Kairo Ferrer",
+      "nationality": "Demeria",
+      "age": 18,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Inverted Winger",
+      "overall": 73,
+      "potential": 81,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 83,
+        "shooting": 92,
+        "passing": 76,
+        "dribbling": 64,
+        "defending": 65,
+        "physical": 54
+      }
+    },
+    {
+      "id": "club_07_p14",
+      "name": "Bianca Moreau",
+      "nationality": "Ardania",
+      "age": 26,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Stopper",
+      "overall": 80,
+      "potential": 80,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 57,
+        "shooting": 51,
+        "passing": 78,
+        "dribbling": 44,
+        "defending": 51,
+        "physical": 91
+      }
+    },
+    {
+      "id": "club_07_p15",
+      "name": "Quentin Jensen",
+      "nationality": "Calidora",
+      "age": 34,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 85,
+      "potential": 96,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 81,
+        "shooting": 41,
+        "passing": 79,
+        "dribbling": 83,
+        "defending": 60,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_07_p16",
+      "name": "Pavel Reyes",
+      "nationality": "Estovia",
+      "age": 27,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 80,
+      "potential": 91,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 61,
+        "shooting": 86,
+        "passing": 85,
+        "dribbling": 88,
+        "defending": 80,
+        "physical": 53
+      }
+    },
+    {
+      "id": "club_07_p17",
+      "name": "Dahlia Tanaka",
+      "nationality": "Calidora",
+      "age": 34,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Box-to-Box",
+      "overall": 71,
+      "potential": 72,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 81,
+        "shooting": 72,
+        "passing": 55,
+        "dribbling": 84,
+        "defending": 88,
+        "physical": 86
+      }
+    },
+    {
+      "id": "club_07_p18",
+      "name": "Idris Ferrer",
+      "nationality": "Galena",
+      "age": 28,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Target Forward",
+      "overall": 76,
+      "potential": 85,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 87,
+        "shooting": 64,
+        "passing": 55,
+        "dribbling": 69,
+        "defending": 47,
+        "physical": 47
+      }
+    }
+  ],
+  "fictional_content": true
+}

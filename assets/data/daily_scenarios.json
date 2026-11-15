@@ -1,0 +1,105 @@
+{
+  "schema_version": 1,
+  "scenarios": [
+    {
+      "id": "daily_last_minute_winner",
+      "title": "Last-Minute Winner",
+      "description": "Protect a narrow lead through added time.",
+      "mode": "match_challenge",
+      "difficulty": "medium",
+      "objectives": [
+        {
+          "type": "win_or_draw"
+        },
+        {
+          "type": "concede_max",
+          "value": 0
+        }
+      ],
+      "reward": {
+        "coins": 500,
+        "xp": 250
+      }
+    },
+    {
+      "id": "daily_comeback",
+      "title": "The Comeback",
+      "description": "Recover from a one-goal deficit before full time.",
+      "mode": "match_challenge",
+      "difficulty": "hard",
+      "objectives": [
+        {
+          "type": "score_min",
+          "value": 2
+        },
+        {
+          "type": "avoid_defeat"
+        }
+      ],
+      "reward": {
+        "coins": 800,
+        "xp": 350
+      }
+    },
+    {
+      "id": "daily_passing",
+      "title": "Pass Master",
+      "description": "Complete a high percentage of passes while creating chances.",
+      "mode": "skill_challenge",
+      "difficulty": "easy",
+      "objectives": [
+        {
+          "type": "pass_accuracy_min",
+          "value": 85
+        },
+        {
+          "type": "key_passes_min",
+          "value": 5
+        }
+      ],
+      "reward": {
+        "coins": 350,
+        "xp": 180
+      }
+    },
+    {
+      "id": "daily_clean_sheet",
+      "title": "Shutout",
+      "description": "Keep a clean sheet against a stronger opponent.",
+      "mode": "match_challenge",
+      "difficulty": "hard",
+      "objectives": [
+        {
+          "type": "clean_sheet"
+        },
+        {
+          "type": "win"
+        }
+      ],
+      "reward": {
+        "coins": 750,
+        "xp": 320
+      }
+    },
+    {
+      "id": "daily_youth",
+      "title": "Youth Opportunity",
+      "description": "Start at least two academy prospects and earn a result.",
+      "mode": "career_challenge",
+      "difficulty": "medium",
+      "objectives": [
+        {
+          "type": "youth_players_started",
+          "value": 2
+        },
+        {
+          "type": "win_or_draw"
+        }
+      ],
+      "reward": {
+        "coins": 600,
+        "xp": 280
+      }
+    }
+  ]
+}

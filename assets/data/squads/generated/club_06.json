@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_06",
+  "name": "Bluepeak Town",
+  "country": "Calidora",
+  "league": "Generated League 1",
+  "stadium": "Bluepeak Arena",
+  "primary_colour": "#D06896",
+  "secondary_colour": "#368241",
+  "play_style": "Possession",
+  "reputation": 2,
+  "budget": 42381880,
+  "formation": "4-2-3-1",
+  "players": [
+    {
+      "id": "club_06_p01",
+      "name": "Zane Petrov",
+      "nationality": "Calidora",
+      "age": 20,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Deep-Lying Creator",
+      "overall": 87,
+      "potential": 99,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 67,
+        "shooting": 43,
+        "passing": 83,
+        "dribbling": 46,
+        "defending": 80,
+        "physical": 81
+      }
+    },
+    {
+      "id": "club_06_p02",
+      "name": "Elara Moreau",
+      "nationality": "Belvaria",
+      "age": 18,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Inverted Winger",
+      "overall": 71,
+      "potential": 75,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 87,
+        "shooting": 89,
+        "passing": 47,
+        "dribbling": 75,
+        "defending": 54,
+        "physical": 45
+      }
+    },
+    {
+      "id": "club_06_p03",
+      "name": "Bastian Bennett",
+      "nationality": "Calidora",
+      "age": 30,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Ball Winner",
+      "overall": 73,
+      "potential": 81,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 83,
+        "shooting": 59,
+        "passing": 67,
+        "dribbling": 80,
+        "defending": 92,
+        "physical": 89
+      }
+    },
+    {
+      "id": "club_06_p04",
+      "name": "Idris Okafor",
+      "nationality": "Belvaria",
+      "age": 18,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Deep-Lying Creator",
+      "overall": 84,
+      "potential": 88,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 90,
+        "shooting": 40,
+        "passing": 93,
+        "dribbling": 90,
+        "defending": 74,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_06_p05",
+      "name": "Milan Ferrer",
+      "nationality": "Estovia",
+      "age": 26,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Poacher",
+      "overall": 78,
+      "potential": 79,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 48,
+        "shooting": 63,
+        "passing": 47,
+        "dribbling": 58,
+        "defending": 54,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_06_p06",
+      "name": "Uriel Silva",
+      "nationality": "Belvaria",
+      "age": 20,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Overlapping Fullback",
+      "overall": 68,
+      "potential": 80,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 66,
+        "shooting": 45,
+        "passing": 72,
+        "dribbling": 58,
+        "defending": 42,
+        "physical": 74
+      }
+    },
+    {
+      "id": "club_06_p07",
+      "name": "Xavi Jensen",
+      "nationality": "Belvaria",
+      "age": 24,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 75,
+      "potential": 86,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 77,
+        "shooting": 64,
+        "passing": 62,
+        "dribbling": 94,
+        "defending": 63,
+        "physical": 57
+      }
+    },
+    {
+      "id": "club_06_p08",
+      "name": "Niko Alder",
+      "nationality": "Demeria",
+      "age": 33,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Box-to-Box",
+      "overall": 87,
+      "potential": 91,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 50,
+        "shooting": 69,
+        "passing": 65,
+        "dribbling": 81,
+        "defending": 80,
+        "physical": 90
+      }
+    },
+    {
+      "id": "club_06_p09",
+      "name": "Jalen Okafor",
+      "nationality": "Calidora",
+      "age": 24,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Playmaker",
+      "overall": 72,
+      "potential": 81,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 54,
+        "shooting": 67,
+        "passing": 63,
+        "dribbling": 67,
+        "defending": 49,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_06_p10",
+      "name": "Milan Caspian",
+      "nationality": "Calidora",
+      "age": 30,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Sweeper Keeper",
+      "overall": 83,
+      "potential": 88,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 48,
+        "shooting": 54,
+        "passing": 83,
+        "dribbling": 77,
+        "defending": 79,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_06_p11",
+      "name": "Niko Navarro",
+      "nationality": "Ardania",
+      "age": 32,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Box-to-Box",
+      "overall": 81,
+      "potential": 92,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 69,
+        "shooting": 85,
+        "passing": 94,
+        "dribbling": 83,
+        "defending": 50,
+        "physical": 82
+      }
+    },
+    {
+      "id": "club_06_p12",
+      "name": "Amara Navarro",
+      "nationality": "Belvaria",
+      "age": 26,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 80,
+      "potential": 86,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 85,
+        "shooting": 76,
+        "passing": 87,
+        "dribbling": 86,
+        "defending": 90,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_06_p13",
+      "name": "Cael Duarte",
+      "nationality": "Helvoria",
+      "age": 31,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Box-to-Box",
+      "overall": 67,
+      "potential": 73,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 90,
+        "shooting": 86,
+        "passing": 72,
+        "dribbling": 79,
+        "defending": 53,
+        "physical": 45
+      }
+    },
+    {
+      "id": "club_06_p14",
+      "name": "Rafael Jensen",
+      "nationality": "Calidora",
+      "age": 34,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Inverted Winger",
+      "overall": 80,
+      "potential": 80,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 94,
+        "shooting": 84,
+        "passing": 89,
+        "dribbling": 67,
+        "defending": 91,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_06_p15",
+      "name": "Cael Kovac",
+      "nationality": "Estovia",
+      "age": 22,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Box-to-Box",
+      "overall": 72,
+      "potential": 72,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 48,
+        "shooting": 43,
+        "passing": 86,
+        "dribbling": 90,
+        "defending": 35,
+        "physical": 67
+      }
+    },
+    {
+      "id": "club_06_p16",
+      "name": "Niko Bennett",
+      "nationality": "Faron",
+      "age": 22,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 69,
+      "potential": 71,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 78,
+        "shooting": 45,
+        "passing": 61,
+        "dribbling": 94,
+        "defending": 42,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_06_p17",
+      "name": "Soren Zoric",
+      "nationality": "Faron",
+      "age": 19,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Deep-Lying Creator",
+      "overall": 74,
+      "potential": 74,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 70,
+        "shooting": 42,
+        "passing": 68,
+        "dribbling": 52,
+        "defending": 45,
+        "physical": 51
+      }
+    },
+    {
+      "id": "club_06_p18",
+      "name": "Elias Everly",
+      "nationality": "Demeria",
+      "age": 25,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Ball Winner",
+      "overall": 79,
+      "potential": 79,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 53,
+        "shooting": 78,
+        "passing": 68,
+        "dribbling": 42,
+        "defending": 51,
+        "physical": 79
+      }
+    }
+  ],
+  "fictional_content": true
+}

@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_03",
+  "name": "Redhaven City",
+  "country": "Ardania",
+  "league": "Generated League 1",
+  "stadium": "Redhaven Arena",
+  "primary_colour": "#DB5210",
+  "secondary_colour": "#205D77",
+  "play_style": "High Press",
+  "reputation": 2,
+  "budget": 33987464,
+  "formation": "4-3-3",
+  "players": [
+    {
+      "id": "club_03_p01",
+      "name": "Kairo Alder",
+      "nationality": "Estovia",
+      "age": 26,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Deep-Lying Creator",
+      "overall": 70,
+      "potential": 70,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 71,
+        "shooting": 88,
+        "passing": 47,
+        "dribbling": 57,
+        "defending": 94,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_03_p02",
+      "name": "Galen Upton",
+      "nationality": "Estovia",
+      "age": 27,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 69,
+      "potential": 75,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 86,
+        "shooting": 42,
+        "passing": 89,
+        "dribbling": 57,
+        "defending": 64,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_03_p03",
+      "name": "Dahlia Quill",
+      "nationality": "Belvaria",
+      "age": 22,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Deep-Lying Creator",
+      "overall": 74,
+      "potential": 85,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 79,
+        "shooting": 71,
+        "passing": 57,
+        "dribbling": 54,
+        "defending": 87,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_03_p04",
+      "name": "Amara Petrov",
+      "nationality": "Helvoria",
+      "age": 20,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Ball Winner",
+      "overall": 82,
+      "potential": 83,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 57,
+        "shooting": 85,
+        "passing": 91,
+        "dribbling": 74,
+        "defending": 44,
+        "physical": 52
+      }
+    },
+    {
+      "id": "club_03_p05",
+      "name": "Idris Varga",
+      "nationality": "Calidora",
+      "age": 21,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Playmaker",
+      "overall": 83,
+      "potential": 93,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 90,
+        "shooting": 81,
+        "passing": 64,
+        "dribbling": 57,
+        "defending": 72,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_03_p06",
+      "name": "Zane Quill",
+      "nationality": "Ardania",
+      "age": 19,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Poacher",
+      "overall": 70,
+      "potential": 77,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 91,
+        "shooting": 72,
+        "passing": 85,
+        "dribbling": 64,
+        "defending": 55,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_03_p07",
+      "name": "Xavi Yilmaz",
+      "nationality": "Calidora",
+      "age": 23,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 74,
+      "potential": 80,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 75,
+        "shooting": 92,
+        "passing": 87,
+        "dribbling": 85,
+        "defending": 60,
+        "physical": 80
+      }
+    },
+    {
+      "id": "club_03_p08",
+      "name": "Wes Quill",
+      "nationality": "Helvoria",
+      "age": 32,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Ball Winner",
+      "overall": 69,
+      "potential": 75,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 84,
+        "shooting": 88,
+        "passing": 93,
+        "dribbling": 55,
+        "defending": 64,
+        "physical": 57
+      }
+    },
+    {
+      "id": "club_03_p09",
+      "name": "Dahlia Gomes",
+      "nationality": "Faron",
+      "age": 33,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 71,
+      "potential": 77,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 89,
+        "shooting": 75,
+        "passing": 75,
+        "dribbling": 90,
+        "defending": 85,
+        "physical": 73
+      }
+    },
+    {
+      "id": "club_03_p10",
+      "name": "Niko Okafor",
+      "nationality": "Demeria",
+      "age": 19,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Box-to-Box",
+      "overall": 69,
+      "potential": 78,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 60,
+        "shooting": 70,
+        "passing": 62,
+        "dribbling": 47,
+        "defending": 40,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_03_p11",
+      "name": "Elara Duarte",
+      "nationality": "Faron",
+      "age": 20,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Overlapping Fullback",
+      "overall": 75,
+      "potential": 87,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 81,
+        "shooting": 94,
+        "passing": 58,
+        "dribbling": 83,
+        "defending": 93,
+        "physical": 65
+      }
+    },
+    {
+      "id": "club_03_p12",
+      "name": "Idris Bellamy",
+      "nationality": "Helvoria",
+      "age": 28,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Playmaker",
+      "overall": 69,
+      "potential": 81,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 73,
+        "shooting": 59,
+        "passing": 76,
+        "dribbling": 66,
+        "defending": 87,
+        "physical": 75
+      }
+    },
+    {
+      "id": "club_03_p13",
+      "name": "Hugo Bennett",
+      "nationality": "Estovia",
+      "age": 26,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Stopper",
+      "overall": 84,
+      "potential": 93,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 48,
+        "shooting": 59,
+        "passing": 71,
+        "dribbling": 75,
+        "defending": 40,
+        "physical": 86
+      }
+    },
+    {
+      "id": "club_03_p14",
+      "name": "Dahlia Bennett",
+      "nationality": "Galena",
+      "age": 22,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 85,
+      "potential": 95,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 86,
+        "shooting": 53,
+        "passing": 81,
+        "dribbling": 75,
+        "defending": 54,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_03_p15",
+      "name": "Bianca Hale",
+      "nationality": "Ardania",
+      "age": 34,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Target Forward",
+      "overall": 77,
+      "potential": 89,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 84,
+        "shooting": 42,
+        "passing": 50,
+        "dribbling": 45,
+        "defending": 49,
+        "physical": 66
+      }
+    },
+    {
+      "id": "club_03_p16",
+      "name": "Bastian Alder",
+      "nationality": "Helvoria",
+      "age": 23,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Deep-Lying Creator",
+      "overall": 86,
+      "potential": 94,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 89,
+        "shooting": 88,
+        "passing": 82,
+        "dribbling": 76,
+        "defending": 41,
+        "physical": 90
+      }
+    },
+    {
+      "id": "club_03_p17",
+      "name": "Freya Duarte",
+      "nationality": "Faron",
+      "age": 24,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Target Forward",
+      "overall": 73,
+      "potential": 80,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 86,
+        "shooting": 78,
+        "passing": 45,
+        "dribbling": 61,
+        "defending": 57,
+        "physical": 55
+      }
+    },
+    {
+      "id": "club_03_p18",
+      "name": "Ari Hale",
+      "nationality": "Calidora",
+      "age": 25,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Stopper",
+      "overall": 76,
+      "potential": 77,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 61,
+        "shooting": 88,
+        "passing": 89,
+        "dribbling": 58,
+        "defending": 90,
+        "physical": 49
+      }
+    }
+  ],
+  "fictional_content": true
+}

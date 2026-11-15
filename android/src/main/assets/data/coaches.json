@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "coaches": [
+    {
+      "id": "coach_01",
+      "name": "Marek Voss",
+      "specialty": "Possession",
+      "weekly_cost": 18000
+    }
+  ]
+}

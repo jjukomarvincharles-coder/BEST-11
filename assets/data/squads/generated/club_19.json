@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_19",
+  "name": "Frostholm United",
+  "country": "Demeria",
+  "league": "Generated League 3",
+  "stadium": "Frostholm Arena",
+  "primary_colour": "#8C1BCB",
+  "secondary_colour": "#455255",
+  "play_style": "Balanced",
+  "reputation": 5,
+  "budget": 40588761,
+  "formation": "4-3-3",
+  "players": [
+    {
+      "id": "club_19_p01",
+      "name": "Idris Petrov",
+      "nationality": "Galena",
+      "age": 34,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Stopper",
+      "overall": 79,
+      "potential": 82,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 62,
+        "shooting": 90,
+        "passing": 76,
+        "dribbling": 82,
+        "defending": 37,
+        "physical": 64
+      }
+    },
+    {
+      "id": "club_19_p02",
+      "name": "Rafael Quill",
+      "nationality": "Calidora",
+      "age": 22,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Inverted Winger",
+      "overall": 81,
+      "potential": 88,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 60,
+        "shooting": 57,
+        "passing": 66,
+        "dribbling": 59,
+        "defending": 78,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_19_p03",
+      "name": "Zane Hale",
+      "nationality": "Estovia",
+      "age": 25,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Playmaker",
+      "overall": 79,
+      "potential": 84,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 58,
+        "shooting": 68,
+        "passing": 68,
+        "dribbling": 42,
+        "defending": 55,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_19_p04",
+      "name": "Dario Okafor",
+      "nationality": "Ardania",
+      "age": 32,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Sweeper Keeper",
+      "overall": 68,
+      "potential": 74,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 94,
+        "shooting": 42,
+        "passing": 82,
+        "dribbling": 73,
+        "defending": 37,
+        "physical": 80
+      }
+    },
+    {
+      "id": "club_19_p05",
+      "name": "Niko Moreau",
+      "nationality": "Faron",
+      "age": 27,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Inverted Winger",
+      "overall": 86,
+      "potential": 96,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 72,
+        "shooting": 55,
+        "passing": 67,
+        "dribbling": 44,
+        "defending": 94,
+        "physical": 87
+      }
+    },
+    {
+      "id": "club_19_p06",
+      "name": "Farid Ibrahim",
+      "nationality": "Galena",
+      "age": 23,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Playmaker",
+      "overall": 75,
+      "potential": 87,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 66,
+        "shooting": 89,
+        "passing": 80,
+        "dribbling": 73,
+        "defending": 67,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_19_p07",
+      "name": "Cleo Yilmaz",
+      "nationality": "Helvoria",
+      "age": 20,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 75,
+      "potential": 81,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 49,
+        "shooting": 92,
+        "passing": 85,
+        "dribbling": 94,
+        "defending": 78,
+        "physical": 52
+      }
+    },
+    {
+      "id": "club_19_p08",
+      "name": "Amara Reyes",
+      "nationality": "Galena",
+      "age": 26,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Poacher",
+      "overall": 80,
+      "potential": 90,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 62,
+        "shooting": 54,
+        "passing": 53,
+        "dribbling": 50,
+        "defending": 77,
+        "physical": 55
+      }
+    },
+    {
+      "id": "club_19_p09",
+      "name": "Luca Alder",
+      "nationality": "Ardania",
+      "age": 22,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 87,
+      "potential": 95,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 93,
+        "shooting": 49,
+        "passing": 49,
+        "dribbling": 55,
+        "defending": 42,
+        "physical": 94
+      }
+    },
+    {
+      "id": "club_19_p10",
+      "name": "Elara Moreau",
+      "nationality": "Faron",
+      "age": 27,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Stopper",
+      "overall": 74,
+      "potential": 77,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 62,
+        "shooting": 81,
+        "passing": 82,
+        "dribbling": 43,
+        "defending": 51,
+        "physical": 48
+      }
+    },
+    {
+      "id": "club_19_p11",
+      "name": "Victor Zoric",
+      "nationality": "Demeria",
+      "age": 28,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Box-to-Box",
+      "overall": 80,
+      "potential": 83,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 50,
+        "shooting": 47,
+        "passing": 51,
+        "dribbling": 48,
+        "defending": 52,
+        "physical": 56
+      }
+    },
+    {
+      "id": "club_19_p12",
+      "name": "Tariq Kovac",
+      "nationality": "Galena",
+      "age": 32,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Stopper",
+      "overall": 74,
+      "potential": 83,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 69,
+        "shooting": 48,
+        "passing": 87,
+        "dribbling": 44,
+        "defending": 93,
+        "physical": 91
+      }
+    },
+    {
+      "id": "club_19_p13",
+      "name": "Elias Bellamy",
+      "nationality": "Galena",
+      "age": 18,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Target Forward",
+      "overall": 75,
+      "potential": 83,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 52,
+        "shooting": 91,
+        "passing": 50,
+        "dribbling": 89,
+        "defending": 68,
+        "physical": 66
+      }
+    },
+    {
+      "id": "club_19_p14",
+      "name": "Tariq Moreau",
+      "nationality": "Calidora",
+      "age": 26,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Box-to-Box",
+      "overall": 83,
+      "potential": 88,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 82,
+        "shooting": 91,
+        "passing": 58,
+        "dribbling": 65,
+        "defending": 65,
+        "physical": 69
+      }
+    },
+    {
+      "id": "club_19_p15",
+      "name": "Ari Navarro",
+      "nationality": "Belvaria",
+      "age": 33,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Inverted Winger",
+      "overall": 68,
+      "potential": 79,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 63,
+        "shooting": 68,
+        "passing": 47,
+        "dribbling": 57,
+        "defending": 87,
+        "physical": 63
+      }
+    },
+    {
+      "id": "club_19_p16",
+      "name": "Pavel Alder",
+      "nationality": "Helvoria",
+      "age": 25,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Playmaker",
+      "overall": 75,
+      "potential": 80,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 89,
+        "shooting": 87,
+        "passing": 79,
+        "dribbling": 48,
+        "defending": 72,
+        "physical": 45
+      }
+    },
+    {
+      "id": "club_19_p17",
+      "name": "Luca Silva",
+      "nationality": "Demeria",
+      "age": 29,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Deep-Lying Creator",
+      "overall": 79,
+      "potential": 84,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 67,
+        "shooting": 56,
+        "passing": 62,
+        "dribbling": 75,
+        "defending": 89,
+        "physical": 73
+      }
+    },
+    {
+      "id": "club_19_p18",
+      "name": "Elias Laurent",
+      "nationality": "Calidora",
+      "age": 19,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Target Forward",
+      "overall": 68,
+      "potential": 75,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 59,
+        "shooting": 64,
+        "passing": 63,
+        "dribbling": 58,
+        "defending": 87,
+        "physical": 83
+      }
+    }
+  ],
+  "fictional_content": true
+}

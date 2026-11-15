@@ -1,0 +1,377 @@
+{
+  "schema_version": 1,
+  "id": "club_12",
+  "name": "Stonegate Rovers",
+  "country": "Calidora",
+  "league": "Generated League 2",
+  "stadium": "Stonegate Arena",
+  "primary_colour": "#0126F4",
+  "secondary_colour": "#6CF3F3",
+  "play_style": "Counter Attack",
+  "reputation": 3,
+  "budget": 19031823,
+  "formation": "4-3-3",
+  "players": [
+    {
+      "id": "club_12_p01",
+      "name": "Elara Ashford",
+      "nationality": "Helvoria",
+      "age": 18,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Ball Winner",
+      "overall": 76,
+      "potential": 87,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 94,
+        "shooting": 82,
+        "passing": 52,
+        "dribbling": 86,
+        "defending": 93,
+        "physical": 82
+      }
+    },
+    {
+      "id": "club_12_p02",
+      "name": "Ari Moreau",
+      "nationality": "Estovia",
+      "age": 20,
+      "position": "RB",
+      "role": "Right Back",
+      "archetype": "Playmaker",
+      "overall": 68,
+      "potential": 78,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 94,
+        "shooting": 41,
+        "passing": 84,
+        "dribbling": 67,
+        "defending": 79,
+        "physical": 74
+      }
+    },
+    {
+      "id": "club_12_p03",
+      "name": "Freya Reyes",
+      "nationality": "Demeria",
+      "age": 32,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Stopper",
+      "overall": 75,
+      "potential": 84,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 83,
+        "shooting": 69,
+        "passing": 65,
+        "dribbling": 76,
+        "defending": 42,
+        "physical": 50
+      }
+    },
+    {
+      "id": "club_12_p04",
+      "name": "Dario Bellamy",
+      "nationality": "Faron",
+      "age": 30,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Poacher",
+      "overall": 73,
+      "potential": 80,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 77,
+        "shooting": 53,
+        "passing": 52,
+        "dribbling": 90,
+        "defending": 74,
+        "physical": 82
+      }
+    },
+    {
+      "id": "club_12_p05",
+      "name": "Orion Okafor",
+      "nationality": "Belvaria",
+      "age": 20,
+      "position": "LB",
+      "role": "Left Back",
+      "archetype": "Target Forward",
+      "overall": 83,
+      "potential": 87,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 60,
+        "shooting": 82,
+        "passing": 46,
+        "dribbling": 68,
+        "defending": 81,
+        "physical": 54
+      }
+    },
+    {
+      "id": "club_12_p06",
+      "name": "Freya Ibrahim",
+      "nationality": "Faron",
+      "age": 33,
+      "position": "CDM",
+      "role": "Defensive Midfielder",
+      "archetype": "Playmaker",
+      "overall": 71,
+      "potential": 81,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 72,
+        "shooting": 61,
+        "passing": 50,
+        "dribbling": 74,
+        "defending": 35,
+        "physical": 47
+      }
+    },
+    {
+      "id": "club_12_p07",
+      "name": "Galen Alder",
+      "nationality": "Belvaria",
+      "age": 26,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Sweeper Keeper",
+      "overall": 89,
+      "potential": 90,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 87,
+        "shooting": 66,
+        "passing": 74,
+        "dribbling": 42,
+        "defending": 83,
+        "physical": 86
+      }
+    },
+    {
+      "id": "club_12_p08",
+      "name": "Soren Petrov",
+      "nationality": "Belvaria",
+      "age": 29,
+      "position": "CM",
+      "role": "Central Midfielder",
+      "archetype": "Target Forward",
+      "overall": 74,
+      "potential": 86,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 72,
+        "shooting": 45,
+        "passing": 57,
+        "dribbling": 54,
+        "defending": 50,
+        "physical": 78
+      }
+    },
+    {
+      "id": "club_12_p09",
+      "name": "Cleo Yilmaz",
+      "nationality": "Faron",
+      "age": 30,
+      "position": "CAM",
+      "role": "Attacking Midfielder",
+      "archetype": "Target Forward",
+      "overall": 69,
+      "potential": 78,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 56,
+        "shooting": 48,
+        "passing": 67,
+        "dribbling": 85,
+        "defending": 47,
+        "physical": 76
+      }
+    },
+    {
+      "id": "club_12_p10",
+      "name": "Elias Okafor",
+      "nationality": "Galena",
+      "age": 31,
+      "position": "RW",
+      "role": "Right Winger",
+      "archetype": "Target Forward",
+      "overall": 77,
+      "potential": 77,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 65,
+        "shooting": 50,
+        "passing": 71,
+        "dribbling": 43,
+        "defending": 52,
+        "physical": 73
+      }
+    },
+    {
+      "id": "club_12_p11",
+      "name": "Soren Kovac",
+      "nationality": "Faron",
+      "age": 29,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Target Forward",
+      "overall": 76,
+      "potential": 77,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 56,
+        "shooting": 60,
+        "passing": 48,
+        "dribbling": 57,
+        "defending": 57,
+        "physical": 53
+      }
+    },
+    {
+      "id": "club_12_p12",
+      "name": "Zane Wolfe",
+      "nationality": "Helvoria",
+      "age": 30,
+      "position": "LW",
+      "role": "Left Winger",
+      "archetype": "Overlapping Fullback",
+      "overall": 66,
+      "potential": 68,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 48,
+        "shooting": 61,
+        "passing": 66,
+        "dribbling": 62,
+        "defending": 74,
+        "physical": 58
+      }
+    },
+    {
+      "id": "club_12_p13",
+      "name": "Xavi Yilmaz",
+      "nationality": "Ardania",
+      "age": 22,
+      "position": "GK",
+      "role": "Goalkeeper",
+      "archetype": "Poacher",
+      "overall": 64,
+      "potential": 65,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 53,
+        "shooting": 45,
+        "passing": 62,
+        "dribbling": 44,
+        "defending": 46,
+        "physical": 83
+      }
+    },
+    {
+      "id": "club_12_p14",
+      "name": "Niko Reyes",
+      "nationality": "Calidora",
+      "age": 23,
+      "position": "CB",
+      "role": "Centre Back",
+      "archetype": "Overlapping Fullback",
+      "overall": 63,
+      "potential": 72,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 82,
+        "shooting": 51,
+        "passing": 74,
+        "dribbling": 61,
+        "defending": 52,
+        "physical": 61
+      }
+    },
+    {
+      "id": "club_12_p15",
+      "name": "Milan Tanaka",
+      "nationality": "Estovia",
+      "age": 23,
+      "position": "DM",
+      "role": "Defensive Midfielder",
+      "archetype": "Playmaker",
+      "overall": 80,
+      "potential": 82,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 51,
+        "shooting": 67,
+        "passing": 92,
+        "dribbling": 67,
+        "defending": 41,
+        "physical": 92
+      }
+    },
+    {
+      "id": "club_12_p16",
+      "name": "Yuri Gomes",
+      "nationality": "Faron",
+      "age": 22,
+      "position": "AM",
+      "role": "Attacking Midfielder",
+      "archetype": "Playmaker",
+      "overall": 75,
+      "potential": 79,
+      "preferred_foot": "Right",
+      "attributes": {
+        "pace": 81,
+        "shooting": 59,
+        "passing": 68,
+        "dribbling": 49,
+        "defending": 75,
+        "physical": 71
+      }
+    },
+    {
+      "id": "club_12_p17",
+      "name": "Pavel Tanaka",
+      "nationality": "Galena",
+      "age": 31,
+      "position": "ST",
+      "role": "Striker",
+      "archetype": "Overlapping Fullback",
+      "overall": 80,
+      "potential": 80,
+      "preferred_foot": "Left",
+      "attributes": {
+        "pace": 84,
+        "shooting": 70,
+        "passing": 94,
+        "dribbling": 55,
+        "defending": 75,
+        "physical": 54
+      }
+    },
+    {
+      "id": "club_12_p18",
+      "name": "Xavi Bennett",
+      "nationality": "Belvaria",
+      "age": 28,
+      "position": "W",
+      "role": "Winger",
+      "archetype": "Deep-Lying Creator",
+      "overall": 70,
+      "potential": 79,
+      "preferred_foot": "Both",
+      "attributes": {
+        "pace": 90,
+        "shooting": 76,
+        "passing": 49,
+        "dribbling": 80,
+        "defending": 48,
+        "physical": 53
+      }
+    }
+  ],
+  "fictional_content": true
+}
